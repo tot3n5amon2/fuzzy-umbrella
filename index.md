@@ -5,10 +5,23 @@
 ##### This is the fifth level
 ###### This is the sixth level
 #
-#
 # This is Image creation:
 #
  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#
+#
+## This is Code Example:
+#
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+#
+## Another Coding Example:
+``` python
+x = "My Name is Hemly"
+print("x")
+```
 
 
 
